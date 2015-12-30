@@ -80,6 +80,7 @@
 		<key name="tizen.org/feature/network.tethering.usb" type="bool">true</key>
 		<key name="tizen.org/feature/network.tethering.wifi" type="bool">true</key>
 		<key name="tizen.org/feature/network.wifi" type="bool">true</key>
+		<key name="tizen.org/feature/network.wifi.tdls" type="bool">false</key>
 		<key name="tizen.org/feature/network.wifi.direct" type="bool">true</key>
 		<key name="tizen.org/feature/network.wifi.direct.display" type="bool">true</key>
 		<key name="tizen.org/feature/network.wifi.direct.service_discovery" type="bool">false</key>
