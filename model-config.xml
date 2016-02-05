@@ -85,6 +85,7 @@
 		<key name="tizen.org/feature/network.wifi.direct" type="bool">true</key>
 		<key name="tizen.org/feature/network.wifi.direct.display" type="bool">true</key>
 		<key name="tizen.org/feature/network.wifi.direct.service_discovery" type="bool">false</key>
+		<key name="tizen.org/feature/network.vpn" type="bool">true</key>
 		<key name="tizen.org/feature/notification" type="bool">true</key>
 		<key name="tizen.org/feature/opengles" type="bool">true</key>
 		<key name="tizen.org/feature/opengles.texture_format.3dc" type="bool">false</key>
