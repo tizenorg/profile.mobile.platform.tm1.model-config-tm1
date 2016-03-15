@@ -140,7 +140,7 @@
 		<key name="tizen.org/feature/sensor.bio" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.geomagnetic_rotation_vector" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gesture_recognition" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.gravity" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.gravity" type="bool">true</key>
 		<key name="tizen.org/feature/sensor.gyroscope" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gyroscope.uncalibrated" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gyroscope.wakeup" type="bool">false</key>
@@ -150,7 +150,7 @@
 		<key name="tizen.org/feature/sensor.heart_rate_monitor.led_ir" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.heart_rate_monitor.led_red" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.humidity" type="bool">false</key>
-		<key name="tizen.org/feature/sensor.linear_acceleration" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.linear_acceleration" type="bool">true</key>
 		<key name="tizen.org/feature/sensor.magnetometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.magnetometer.uncalibrated" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.magnetometer.wakeup" type="bool">false</key>
