@@ -25,3 +25,4 @@ cp -f model-config.xml %{buildroot}%{_sysconfdir}/config/model-config.xml
 %files
 %{_sysconfdir}/config/model-config.xml
 %manifest model-config.manifest
+%license LICENSE.Apache-2.0
